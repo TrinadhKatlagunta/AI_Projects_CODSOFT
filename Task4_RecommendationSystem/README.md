@@ -14,9 +14,11 @@ Before running the program, please ensure you follow these instructions:
     pip install mlxtend
     ```
 
-3. **Provide Input File**: The program requires a file as input. You can use the provided input file named `groceryitems.csv` in this folder. Ensure you download this file and provide it as input when running the program.
+3. **Run the Program**: After downloading the input file, run the `simple_recommendation.py` program to generate recommendations.
 
-4. **View Recommendations**: After successful execution of the program, you will see a list of recommended items based on the input data.
+4. **Provide Input File**: The program requires a file as input. You can use the provided input file named `groceryitems.csv` in this folder. Ensure you download this file and provide it as input when running the program.
+
+5. **View Recommendations**: After successful execution of the program, you will see a list of recommended items based on the input data.
 
 ## Download Input Data
 
