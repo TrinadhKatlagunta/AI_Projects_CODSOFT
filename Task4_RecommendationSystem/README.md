@@ -1,4 +1,4 @@
-# Recommendation System Folder
+# Recommendation System
 
 This folder contains the code for the recommendation system developed as part of the Codsoft internship program.
 
@@ -22,7 +22,7 @@ Before running the program, please ensure you follow these instructions:
 
 You can download the input data file from the following link:
 
-- [Download Grocery Items CSV](https://raw.githubusercontent.com/TrinadhKatlgunta/CODSOFT/main/Task4_RecommendationSystem/README.md)
+- [Download Grocery Items CSV](https://raw.githubusercontent.com/TrinadhKatlgunta/CODSOFT/main/Task4_RecommendationSystem/groceryitems.csv)
 
 ## Note
 
