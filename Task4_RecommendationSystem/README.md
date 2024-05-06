@@ -20,9 +20,9 @@ Before running the program, please ensure you follow these instructions:
 
 ## Download Input Data
 
-You can download the input data file directly by clicking the following link:
+To download the input data file, click the button below:
 
-- [Download Grocery Items CSV](https://raw.githubusercontent.com/TrinadhKatlgunta/CODSOFT/main/Task4_RecommendationSystem/groceryitems.csv?raw=true)
+[![Download Grocery Items CSV](https://img.shields.io/badge/Download-CSV-blue)](https://raw.githubusercontent.com/TrinadhKatlgunta/CODSOFT/main/Task4_RecommendationSystem/groceryitems.csv)
 
 ## Note
 
