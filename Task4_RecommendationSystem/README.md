@@ -26,7 +26,7 @@ To download the input data file, follow these steps:
 
 1. Click on the following link:
 
-   - [Grocery Items CSV](https://raw.githubusercontent.com/TrinadhKatlgunta/CODSOFT/main/Task4_RecommendationSystem/groceryitems.csv)
+   - [Grocery Items CSV](https://raw.githubusercontent.com/TrinadhKatlgunta/CODSOFT1/main/Task4_RecommendationSystem/groceryitems.csv)
 
 2. Once the file opens in your browser, right-click on the page and select "Save Page As" or "Save As" to save the file to your computer.
 
